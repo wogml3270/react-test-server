@@ -1,0 +1,5 @@
+/* tailwind onload */
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
